@@ -1,7 +1,7 @@
 # import requests
 
 # https://api.telegram.org/bot<token>/METHOD_NAME
-# token = "7902405831:AAE1TIgtSRpxyQy1OWRf3S7yljIyPx2ySBU"
+# token = "token"
 
 
 # request_str = "https://api.telegram.org/bot7902405831:AAE1TIgtSRpxyQy1OWRf3S7yljIyPx2ySBU/getUpdates"
